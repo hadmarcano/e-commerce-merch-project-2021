@@ -21,6 +21,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@react-google-maps/api": "^2.1.1",
+    "axios": "^0.21.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.26.0",
     "eslint-config-airbnb": "^18.2.1",
@@ -32,6 +34,7 @@
     "prettier": "^2.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-paypal-button-v2": "^2.6.3",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
